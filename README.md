@@ -22,11 +22,8 @@
 
 
 ## Some examples of Work
-[![Text](./img/join.jpg.png  =100)](https://www.dominik-graf.ch/join)
 
-src="./img/join.jpg.png" width="200" size="auto" alt="weka">
-
-[ <img src="./img/join.jpg.png"> ](https://www.dominik-graf.ch/join)
+[ <img src="./img/join.jpg.png" width="300" height="300" > ](https://www.dominik-graf.ch/join)
 
 # Contact me
 
