@@ -31,8 +31,8 @@
 
 # Contact me
 
-[<img src="./img/linkedin-box-fill.png" width="60" height="60" object-fit="cover" >](https://www.linkedin.com/in/dominik-graf-b7b403249/)
-[<img src="./img/xing-fill.png" width="60" height="60" object-fit="cover" >](https://www.xing.com/profile/Dominik_Graf210/cv)
+[<img src="./img/linkedin.png" width="60" height="60" object-fit="cover" >](https://www.linkedin.com/in/dominik-graf-b7b403249/)
+[<img src="./img/xing.png" width="60" height="60" object-fit="cover" >](https://www.xing.com/profile/Dominik_Graf210/cv)
 
 
   
