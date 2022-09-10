@@ -1,4 +1,4 @@
-<img src="./img/Logo Big.png" width="300" height="60" object-fit="cover" align="center" >
+<img src="./img/Logo Big.png" width="200" height="30" object-fit="cover" align="center" >
 
 
 
