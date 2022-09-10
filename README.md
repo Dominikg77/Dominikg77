@@ -26,6 +26,7 @@
 
 src="./img/join.jpg.png" width="200" size="auto" alt="weka">
 
+[ <img src="./img/join.jpg.png"> ](https://www.dominik-graf.ch/join)
 
 # Contact me
 
