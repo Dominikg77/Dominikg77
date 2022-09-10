@@ -22,8 +22,8 @@
 
 
 ## Some examples of Work
-
-[ <img src="./img/join.jpg.png" width="450" height="300" object-fit="cover" > ](https://www.dominik-graf.ch/join)
+//Join
+[<img src="./img/join.jpg.png" width="450" height="300" object-fit="cover" >](https://www.dominik-graf.ch/join)
 
 # Contact me
 
