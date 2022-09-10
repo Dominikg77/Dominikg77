@@ -22,8 +22,8 @@
 
 
 ## Some examples of Work
-<a herf="dominik-graf.ch/join"><img width="400" src="ezgif.com-gif-maker (1).gif">
-<a herf="dominik-graf.ch/El-Pollo-Loco/"><img width="400" src="ezgif.com-gif-maker.gif">
+<a href="dominik-graf.ch/join"><img width="400" src="ezgif.com-gif-maker (1).gif">
+<a href="dominik-graf.ch/El-Pollo-Loco/"><img width="400" src="ezgif.com-gif-maker.gif">
 
 
 # Contact me
