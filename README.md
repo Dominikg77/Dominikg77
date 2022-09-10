@@ -27,7 +27,7 @@
 <img width="400" src="./img/join.jpg.png">(https://www.dominik-graf.ch/join)
 
 
-<a href="[dominik-graf.ch/El-Pollo-Loco](https://www.dominik-graf.ch/join)/"><img width="400" src="./img/join.jpg.png">
+<a href="[[dominik-graf.ch/El-Pollo-Loco](https://www.dominik-graf.ch/join)](https://www.dominik-graf.ch/join)/"><img width="400" src="./img/join.jpg.png">
 
 
 # Contact me
