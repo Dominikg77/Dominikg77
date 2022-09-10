@@ -22,7 +22,7 @@
 
 
 ## Some examples of Work
-<a href="dominik-graf.ch/join"><img width="400" src="ezgif.com-gif-maker (1).gif">Test </a>
+<a href="dominik-graf.ch/join">Test </a>
 <a href="dominik-graf.ch/El-Pollo-Loco/"><img width="400" src="ezgif.com-gif-maker.gif">
 
 
