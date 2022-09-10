@@ -22,7 +22,7 @@
 
 
 ## Some examples of Work
-[![Text](./img/join.jpg.png =100px)](https://www.dominik-graf.ch/join)
+![Picture](./img/join.jpg.png =100)](https://www.dominik-graf.ch/join)
 
 
 
