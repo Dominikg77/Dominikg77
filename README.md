@@ -1,3 +1,6 @@
+[<img src="./img/Logo Big.png" width="450" height="100" object-fit="cover" >]
+
+
 
 
 <h1 align="center">Hi there 👋, I'm Dominik</h1>
