@@ -24,7 +24,7 @@
 ## Some examples of Work
 [Join](https://www.dominik-graf.ch/join)
 
-[![Text](./img/join.jpg.png)]{:height="36px" width="36px"}(https://www.dominik-graf.ch/join)
+[![Text](./img/join.jpg.png)](https://www.dominik-graf.ch/join)
 
 
 <a href="dominik-graf.ch/El-Pollo-Loco/"><img width="400" src="ezgif.com-gif-maker.gif">
