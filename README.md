@@ -23,7 +23,7 @@
 
 ## Some examples of Work
 
-[ <img src="./img/join.jpg.png" width="600" height="300" > ](https://www.dominik-graf.ch/join)
+[ <img src="./img/join.jpg.png" width="500" height="300" > ](https://www.dominik-graf.ch/join)
 
 # Contact me
 
