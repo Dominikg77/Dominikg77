@@ -1,4 +1,4 @@
-[<img src="./img/Logo Big.png" width="450" height="100" object-fit="cover" >]
+<img src="./img/Logo Big.png" width="300" height="60" object-fit="cover" align="center" >
 
 
 
