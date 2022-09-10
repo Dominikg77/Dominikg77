@@ -31,8 +31,9 @@
 
 # Contact me
 
+[<img src="./img/linkedin-box-fill.png" width="60" height="60" object-fit="cover" >](https://www.linkedin.com/in/dominik-graf-b7b403249/)
+[<img src="./img/xing-fill.png" width="60" height="60" object-fit="cover" >](https://www.xing.com/profile/Dominik_Graf210/cv)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/navjot-singh-364623233/6/](https://www.linkedin.com/in/dominik-graf-b7b403249/)) 
 
   
 
