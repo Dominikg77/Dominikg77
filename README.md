@@ -26,8 +26,8 @@
 
 ## Some examples of Work
 
-[<img src="./img/Join.gif" width="675" height="300" object-fit="cover" >](https://www.dominik-graf.ch/join)
-[<img src="./img/El-Pollo-Loco.gif" width="675" height="300" object-fit="cover" >](https://www.dominik-graf.ch/El-Pollo-Loco/)
+[<img src="./img/Join.gif" width="675" height="300" object-fit="cover" >](https://join.dominik-graf.ch)
+[<img src="./img/El-Pollo-Loco.gif" width="675" height="300" object-fit="cover" >](https://el-pollo-loco.dominik-graf.ch)
 
 # Contact me
 
