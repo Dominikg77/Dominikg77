@@ -11,7 +11,7 @@
 * 🧑🏻‍💻 I'm from Swiss 🇨🇭
 * 🏗 I love creating new things
 * 💻 I build content related to web development
-* 🤩 I really enjoy learning languages and frameworks like JS, Angular and as well as work in WordPress.
+* 🤩 I really enjoy learning languages and frameworks like JS, Angular and as well as work in DNN.
 
 
 
