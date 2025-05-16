@@ -21,6 +21,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=angular,git,github,bootstrap,wordpress)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,git,github,bootstrap,wordpress,sqlite)](https://skillicons.dev)
+
 
 ## Some examples of Work
 
