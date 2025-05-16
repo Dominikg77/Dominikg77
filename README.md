@@ -18,7 +18,7 @@
 
 ### Skills and Experience
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,bootstrap,tailwind)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=dotnet,csharp,mysql,firebase,vercel,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,mysql,firebase,vercel,git,github)](https://skillicons.dev)
 
 
 ## Some examples of Work
