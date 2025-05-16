@@ -17,10 +17,6 @@
 
 
 ### Skills and Experience
-[[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=angular,git,github,bootstrap,wordpress)](https://skillicons.dev)](url)
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,bootstrap,tailwind)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=dotnet,csharp,mysql,firebase,vercel,git,github)](https://skillicons.dev)
 
